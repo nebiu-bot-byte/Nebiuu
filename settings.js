@@ -3,16 +3,16 @@ const chalk = require('chalk')
 
 
 //contact details
-global.ownernomer = "2348109263390"
-global.ownername = "ElitePro"
-global.ytname = "YT: @ElitePro-Empire"
-global.socialm = "GitHub: Elite-MD"
-global.location = "Nigeria, Port Harcourt"
+global.ownernomer = "2347071921621"
+global.ownername = "Nebiu"
+global.ytname = "YT: Nebiu-Empire"
+global.socialm = "GitHub: Nebiu-MD"
+global.location = "Nigeria, Lagos"
 
 
-global.ownernumber = '2348109263390'  //creator number
-global.ownername = 'ElitePro' //owner name
-global.botname = 'ELITE-PRO-V1' //name of the bot
+global.ownernumber = '2347071921621'  //creator number
+global.ownername = 'Nebiu' //owner name
+global.botname = 'Nebiu-PRO-V1' //name of the bot
 
 
 //custom prefix
@@ -21,7 +21,7 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = true //auto typing + recording
 
 
@@ -33,7 +33,7 @@ global.autoswview = true //auto view status/story
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Elite-Pro\n\nContact: +2348109263390'
+global.author = 'Nebiu-Pro\n\nContact: +234 707 192 1621'
 
 //set your menu picture
 global.elitepropp = 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg' //menu and thumb picture
